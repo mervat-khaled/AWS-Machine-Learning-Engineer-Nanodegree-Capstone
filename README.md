@@ -84,7 +84,7 @@ Batch size 32, Learning rate 0.0058
 For more details check out ![amazon_bin_image_model_training_deploying.ipynb](amazon_bin_image_model_training_deploying.ipynb) and ![capstone project report.pdf](capstone project report.pdf)
 
 ### Model Metrics: 
-![screenshots/model_metrics.png](screenshots/model_metrics.png)
+![screenshots/model_matrics.png](screenshots/model_matrics.png)
 
 ### AWS Cloudwatch logs:
 ![screenshots/logs_3.png](screenshots/logs_3.png)
