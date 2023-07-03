@@ -81,7 +81,7 @@ We chose a convolutional neural network with a pre-trained model (ResNet50 Model
 The best hyperparameters were:
 Batch size 32, Learning rate 0.0058
 ![screenshots/best hyperparameter.png](screenshots/best hyperparameter.png)
-For more details check out ![amazon_bin_image_model_training_deploying.ipynb](amazon_bin_image_model_training_deploying.ipynb) and ![capstone project report.pdf](capstone project report.pdf)
+For more details check out![amazon_bin_image_model_training_deploying.ipynb](amazon_bin_image_model_training_deploying.ipynb) and ![capstone project report.pdf](capstone project report.pdf)
 
 ### Model Metrics: 
 ![screenshots/model_matrics.png](screenshots/model_matrics.png)
